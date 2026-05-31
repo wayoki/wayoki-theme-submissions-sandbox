@@ -1,0 +1,23 @@
+{
+  "themeName": "Sandbox Test",
+  "authorName": "wayoki",
+  "creditText": "",
+  "authorLink": "",
+  "sourceTheme": "light",
+  "submittedAt": "2026-05-31T00:10:32.428Z",
+  "createdAt": "2026-05-31T00:10:32.428Z",
+  "updatedAt": "2026-05-31T00:10:32.428Z",
+  "version": 1,
+  "authorSlug": "wayoki",
+  "themeSlug": "sandbox-test",
+  "tokens": {
+    "--color-accent": "#ff8800",
+    "--color-bg": "#111111",
+    "--color-text-primary": "#ffffff"
+  },
+  "meta": {
+    "siteLocale": "ru",
+    "userAgent": "manual-test",
+    "page": "/ru/customization/"
+  }
+}
